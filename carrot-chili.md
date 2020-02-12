@@ -26,6 +26,12 @@ black pepper
 | category | salad |
 | style | food salad |
 
+#### Human feelings
+
+Crunchy, comforting, filling, fresh, spicy, umami
+
+### Pictures of special ingredients
+
 ![](.gitbook/assets/img_20200212_113032.jpg)
 
 ![](.gitbook/assets/screenshot-2020-02-12-at-15.05.36.png)
