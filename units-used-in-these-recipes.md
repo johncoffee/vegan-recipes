@@ -10,7 +10,7 @@ We can not be bothered using either weight, volumetric units, or grandmas "3 tab
 3 carrots  
 2 flour  
 1 honey  
-0.1 almonds \(chopped\)
+0,1 almonds \(chopped\)
 
 ...Would mean 3x as many carrots as honey.  
 eg 300 gm carrots to 100 gm honey  
