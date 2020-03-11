@@ -1,6 +1,7 @@
 # Units used in these recipes
 
-The amounts given in the recipes are unit-less but relative. You'll have an easy time scaling the portion to more people :\)
+The amounts given in the recipes are unit-less but relative. You'll have an easy time scaling the portion to more people :\)  
+Acknowledged; there's an upper limit to portion size where this method stops working, but this book assumes portion sizes of 1-10 people - where it's precise enough.
 
 We can not be bothered using either weight, volumetric units, or grandmas "3 table spoons of.." \(sorry grandma\). As master chefs we'll always taste our food as we cook and add a little here and there anyways, therefore specifying amounts precisely is irelevant.
 
