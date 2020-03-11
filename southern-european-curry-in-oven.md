@@ -1,7 +1,5 @@
 # Southern European curry \(in oven\)
 
-
-
 ### Description
 
 The idea behind this dish is that you don't want to spend much effort peeling, washing, stirring, frying, or taking care of anything... just chop chop chop, put in the oven, and then kick back on the couch!

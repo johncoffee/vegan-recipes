@@ -1,15 +1,17 @@
-# Chaotic carrot chili
+---
+description: 'Creamy, crunchy, and spicy carrots with quinoa'
+---
 
-Creamy, crunchy, and spicy carrots with quinoa
+# Chaotic carrot chili
 
 ![](.gitbook/assets/img_20200212_113004.jpg)
 
 ### ingredients
 
 2  carrot  
-1 \(pref. black\) quinoa  
+1 quinoa  
 1  pickled red cabbage  
-0.25 Tahini  
+0.25 Tahin  
 0.15 red pepper paste  
 0.1  mandler, hakkede
 
