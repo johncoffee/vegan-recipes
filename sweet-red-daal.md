@@ -1,5 +1,9 @@
 # Sweet red daal
 
+### Description
+
+A surpricingly sweet and creamy daal with untraditionally few spices!
+
 ### Ingredients
 
 2 White onion  
