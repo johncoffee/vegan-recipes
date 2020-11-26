@@ -5,4 +5,5 @@
 * [Chaotic carrot chili](carrot-chili.md)
 * [Southern European curry \(in oven\)](southern-european-curry-in-oven.md)
 * [Alcohol-free drinks](alcohol-free-drinks.md)
+* [Sweet red daal](sweet-red-daal.md)
 
