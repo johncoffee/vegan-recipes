@@ -2,7 +2,7 @@
 
 ### Ingredients
 
-2 Onion  
+2 White onion  
 2 Red snack peppers  
 2 Red lentil  
 2 Potato  
